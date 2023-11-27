@@ -1,10 +1,3 @@
-<div id="badges">
-  <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
-  <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
-</div>
-<img src="https://komarev.com/ghpvc/?username=XenMars&style=flat-square&color=blue" alt=""/>
-
 <h1>
   hey there
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
@@ -16,7 +9,8 @@
 
 - :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
 
-- :mailbox:How to reach me: <a href="https://www.linkedin.com/in/xen-beliaeva/">linkedin</a>
+- :mailbox:How to reach me: <a href="https://www.linkedin.com/in/xen-beliaeva/">linkedin</a> <a href="https://t.me/xenia_dev/">telegtam</a> <a href="https://www.upwork.com/freelancers/kseniiabeliaeva">upwork</a> 
+<a href="https://www.linkedin.com/in/xen-beliaeva/">email</a> 
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
