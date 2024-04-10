@@ -8,7 +8,7 @@
 
 - :seedling: Exploring Technical Content Writing.
 
-- :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
+- :zap: In my free time, I write and read tech articles.
 
 - :mailbox:How to reach me: <a href="https://www.linkedin.com/in/xen-beliaeva/">linkedin</a> <a href="https://t.me/xenia_dev/">telegtam</a> <a href="https://www.upwork.com/freelancers/kseniiabeliaeva">upwork</a> 
 <a href="https://www.linkedin.com/in/xen-beliaeva/">email</a> 
