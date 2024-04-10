@@ -11,7 +11,7 @@
 - :zap: In my free time, I write and read tech articles.
 
 - :mailbox:How to reach me: <a href="https://www.linkedin.com/in/xen-beliaeva/">linkedin</a> <a href="https://t.me/xenia_dev/">telegtam</a> <a href="https://www.upwork.com/freelancers/kseniiabeliaeva">upwork</a> 
-<a href="https://www.linkedin.com/in/xen-beliaeva/">email</a> 
+<a href="mailto:hello@xenbel.com">email</a> 
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
