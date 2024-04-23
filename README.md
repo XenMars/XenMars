@@ -5,7 +5,7 @@
   <br>
   <br>
   <a href="https://xenbel.com/" rel="nofollow">
-    <img width="120" height="120" src="https://github.com/XenMars/XenMars/blob/main/xenbLogo.png" style="max-width: 100%; border-radius: 12px;">
+    <img width="120" height="120" src="https://github.com/XenMars/XenMars/blob/main/xenbLogo.png" style="max-width: 100%;">
   </a>
   <br>
   <p dir="auto">
