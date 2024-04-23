@@ -1,16 +1,31 @@
-<h1>
-  hey there
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-  <img src="https://komarev.com/ghpvc/?username=XenMars&style=flat-square&color=gray" alt=""/>
-</h1>
-
-- :telescope: I’m working as a WordPress Developer.
-
-- :seedling: Exploring Technical Content Writing.
-
-- :zap: In my free time, I write and read tech articles.
-
-- :mailbox:How to reach me: <a href="https://www.linkedin.com/in/xen-beliaeva/">linkedin</a> <a href="https://t.me/xenia_dev/">telegram</a> <a href="https://www.upwork.com/freelancers/kseniiabeliaeva">upwork</a> 
-<a href="mailto:hello@xenbel.com">email</a>
-
-<a href="https://xenbel.com/">My Site</a> 
+<div align="center" dir="auto">
+  <br>
+  <br>
+  <br>
+  <br>
+  <br>
+  <a href="https://xenbel.com/" rel="nofollow">
+    <img width="120" height="120" src="https://github.com/XenMars/XenMars/blob/main/xenbLogo.png" style="max-width: 100%;">
+  </a>
+  <br>
+  <p dir="auto">
+  </p>
+  <br>
+  <br>
+<p dir="auto">✦ Hi, I'm Xen, Fullstack developer from Novi Sad, Serbia ✦</p>
+<p dir="auto">
+    <a href="https://www.upwork.com/freelancers/kseniiabeliaeva/" rel="nofollow">UpWork</a> • 
+    <a href="https://medium.com/@xenbel" rel="nofollow">Medium</a> • 
+    <a href="mailto:hello@xenbel.com">E-Mail</a> • 
+    <a href="https://xenbel.com/blog/" rel="nofollow">My Blog</a>
+  </p>
+  <br>
+  <br>
+  <br>
+  <br>
+  <br>
+  <br>
+  <br>
+  <br>
+  <br>
+</div>
